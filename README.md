@@ -2,15 +2,11 @@
 
 ###
 
-<p align="left">🏫I'm a graduate student at Carnegie Mellon University, Heinz College.</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">👩🏻‍💻 I'm in the Public Policy and Data Analytics program<br>📝 All of my projects are available at https://github.com/Ouyu-Han<br>📫 How to reach me: ouyuh@andrew.cmu.edu</p>
+<p align="left">👩🏻‍💻 I'm a graduate student at Carnegie Mellon Unviersity studying public policy and data anlaytics<br>📝 All of my projects are available at https://github.com/Ouyu-Han<br>📫 How to reach me: ouyuh@andrew.cmu.edu</p>
 
 ###
 

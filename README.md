@@ -4,7 +4,6 @@
 
 <h2 align="left">About me</h2>
 
-###
 
 <p align="left">👩🏻‍💻 I'm a graduate student at Carnegie Mellon Unviersity studying public policy and data anlaytics
 <br /><br>📝 All of my projects are available at https://github.com/Ouyu-Han

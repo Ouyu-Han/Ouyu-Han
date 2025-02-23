@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a graduate student at Carnegie Mellon University, Heinz College.</p>
+<p align="left">🏫I'm a graduate student at Carnegie Mellon University, Heinz College.</p>
 
 ###
 

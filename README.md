@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Ouyu Han</h1>
+<h1 align="center">Hey 👋 I'm Jennifer Han</h1>
 
 ###
 
